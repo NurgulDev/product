@@ -1,0 +1,30 @@
+.mainheaderacvi-block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headermainimage img {
+  width: 700px;
+  height: 500px;
+}
+
+.mainheaderakvi p {
+  font-family: Inter;
+  font-size: 25px;
+  width: 400px;
+  margin: 20px 0;
+  font-weight: 400;
+}
+
+#mainheader {
+  background: #5576c9d3;
+  color: white;
+}
+
+.mainheaderakvi button {
+  background: #ffffff;
+  border: none;
+  padding: 20px 30px;
+  font-size: 20px;
+}

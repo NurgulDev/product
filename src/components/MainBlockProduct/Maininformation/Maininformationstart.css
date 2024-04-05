@@ -1,0 +1,20 @@
+.mainstart {
+  display: flex;
+  align-items: center;
+  gap: 1.2pc;
+  background: #ffffff;
+  width: 330px;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 7px;
+}
+
+#mainstart {
+  margin-top: 2pc;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
